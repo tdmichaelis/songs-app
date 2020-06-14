@@ -1,0 +1,6 @@
+.song-list {
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  max-width: 500px;
+}
