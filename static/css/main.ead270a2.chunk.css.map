@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,WACE,YAAa,CACb,qBAAsB,CACtB,eAAgB,CAChB,eACF","file":"main.ead270a2.chunk.css","sourcesContent":[".song-list {\n  display: flex;\n  flex-direction: column;\n  min-width: 200px;\n  max-width: 500px;\n}"]}
